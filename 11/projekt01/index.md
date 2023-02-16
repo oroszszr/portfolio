@@ -2,8 +2,6 @@
 
 ## 11. évfolyamon készített projektek:
 
-[01. Portfólió](https://github.com/oroszszr/portfolio)
-
 ## Skori [ Vezeték Nélküli LED meghajtó ] építése / mérése
 
 [VISSZA](https://oroszszr.github.io/portfolio/)
