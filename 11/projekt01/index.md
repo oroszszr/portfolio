@@ -5,6 +5,7 @@
 ## 11. évfolyamon készített projektek:
 </p>
 [01. Portfólió](https://github.com/oroszszr/portfolio)
+
 ![kapcsolasirajz](kapcsolas.jpg "kapcsolási rajz")
 ![aramkor](aramkor.jpg "Az elkészült kapcsolás")
 
