@@ -4,6 +4,7 @@
 <p>
 ## 11. évfolyamon készített projektek:
 </p>
+
 [01. Portfólió](https://github.com/oroszszr/portfolio)
 
 ## Skori [ Vezeték Nélküli LED meghajtó ] építése / mérése
@@ -18,7 +19,7 @@
 
 ![kapcsolasirajz](kapcsolas.jpg "kapcsolási rajz")
 
-## Áramkör 
+## Nyákba beletett alkatrészek
 
 ![aramkor](aramkor.jpg "Az elkészült kapcsolás")
 
@@ -31,7 +32,6 @@
 |Kondenzátor|C5,C6|470nF|2|
 |Tranzisztor|T1|BC639|1|
 |Dióda|D1|1n4148|1|
-### Nyákba beletett alkatrészek
 
 ### A kapcsolás megépítéséhez Skori rajzát használtuk fel. 
 
