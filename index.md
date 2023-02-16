@@ -1,4 +1,8 @@
 # Orosz Szabolcs portfóliója
-|alkatrész|típus|darab|
+|Alkatrész|Típus|Darab|
 |---|---|---|
-|ellenállás|10k|1|
+|Ellenállás|10k|1|
+<details><summary>11. évfolyam</summary>
+<p>
+
+Portflió
