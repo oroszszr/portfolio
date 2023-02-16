@@ -5,8 +5,11 @@
 ## 11. évfolyamon készített projektek:
 </p>
 [01. Portfólió](https://github.com/oroszszr/portfolio)
-
+## Szükséges alkatrészek
+![alkatreszek](alkatreszek.jpg "Kellő Alkatrészek ")
+## Kapcsolási rajz
 ![kapcsolasirajz](kapcsolas.jpg "kapcsolási rajz")
+## Áramkör 
 ![aramkor](aramkor.jpg "Az elkészült kapcsolás")
 
 |Név|Jelölés|Érték|darab|
