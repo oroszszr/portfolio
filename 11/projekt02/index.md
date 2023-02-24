@@ -11,7 +11,7 @@ Projekt ismertetése : Kiegyenlítetlen hídkapcsolás kimeneti feszültségéne
 |Ellenállás|R3|3k|1|
 |Ellenállás|R4|4k|1|
 |Ellenállás|R5|5k|1|
-|Voltmérő|VM1|10 V|1|
+|Voltmérő|VM1|10V|1|
 
 #### Kapcsolási rajz
 ![kapcsolasirajz](OroszSzabolcs_PR-1.1.PNG "kapcsolási rajz")
