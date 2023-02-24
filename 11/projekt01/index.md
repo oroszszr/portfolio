@@ -1,6 +1,4 @@
-# Orosz Szabolcs portfóliója
 
-## 11. évfolyamon készített projektek:
 
 ### 1. projekt
 
