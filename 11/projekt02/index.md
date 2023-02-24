@@ -3,6 +3,7 @@
 
 ### Projekt neve : Hídkapcsolás
 Projekt ismertetése : Kiegyenlítetlen hídkapcsolás kimeneti feszültségének meghatározása
+
 |Név|Jelölés|Érték|darab|
 |----|----|----|------|
 |Ellenállás|R1|1k|1|
@@ -11,6 +12,7 @@ Projekt ismertetése : Kiegyenlítetlen hídkapcsolás kimeneti feszültségéne
 |Ellenállás|R4|4k|1|
 |Ellenállás|R5|5k|1|
 |Voltmérő|VM1|10 V|1|
+
 #### Kapcsolási rajz
 ![kapcsolasirajz](OroszSzabolcs_PR-1.1.PNG "kapcsolási rajz")
 #### Szimulációs mérés eredménye
