@@ -2,8 +2,6 @@
 
 ### 1. projekt
 
-[Elso](https://oroszszr.github.io/portfolio/11/projekt01//)
-
 [VISSZA](https://oroszszr.github.io/portfolio/)
 
 ## Skori [ Vezeték Nélküli LED meghajtó ] építése / mérése
