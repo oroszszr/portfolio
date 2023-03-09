@@ -3,6 +3,7 @@
 
 ### Projekt neve : Hídkapcsolás
 Projekt ismertetése : Kiegyenlítetlen hídkapcsolás kimeneti feszültségének meghatározása
+
 a, szimulácis méréssel 
 b, valós méréssel
 c, számítással (delta-csillag méréssel)
