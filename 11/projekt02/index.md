@@ -11,6 +11,8 @@ Projekt ismertetése : Kiegyenlítetlen hídkapcsolás kimeneti feszültségéne
 #### Kapcsolási rajz
 ![kapcsolasirajz](OroszSzabolcs_PR-1.1.PNG "kapcsolási rajz")
 
+### Alkatrészjegyzék
+
 |Név|Jelölés|Érték|darab|
 |----|----|----|------|
 |Ellenállás|R1|1k|1|
