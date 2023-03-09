@@ -1,14 +1,14 @@
-### 2. Projekt. Orosz Szabolcs
+# 2. Projekt. Orosz Szabolcs
 [VISSZA](https://oroszszr.github.io/portfolio/)
 
-### Projekt neve : Hídkapcsolás
+## Projekt neve : Hídkapcsolás
 Projekt ismertetése : Kiegyenlítetlen hídkapcsolás kimeneti feszültségének meghatározása
 
 - a, szimulácis méréssel 
 - b, valós méréssel
 - c, számítással (delta-csillag méréssel)
 
-#### Kapcsolási rajz
+### Kapcsolási rajz
 ![kapcsolasirajz](OroszSzabolcs_PR-1.1.PNG "kapcsolási rajz")
 
 ### Alkatrészjegyzék
@@ -22,7 +22,7 @@ Projekt ismertetése : Kiegyenlítetlen hídkapcsolás kimeneti feszültségéne
 |Ellenállás|R5|5k|1|
 |Feszültségforrás|VM1|10V|1|
 
-#### Szimulációs mérés eredménye
+### Szimulációs mérés eredménye
 ![szimulaciosmereseredmenye](OroszSzabolcs_PR-1.2.PNG "Szimulációs mérés eredménye")
 
 ### Számítások eredménye
