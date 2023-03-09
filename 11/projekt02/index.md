@@ -6,7 +6,7 @@ Projekt ismertetése : Kiegyenlítetlen hídkapcsolás kimeneti feszültségéne
 
 - a, szimulácis méréssel 
 - b, valós méréssel
-- c, számítással (delta-csillag méréssel)
+- c, számítással (delta-csillag átalakítással és számolással)
 
 ### Kapcsolási rajz
 ![kapcsolasirajz](OroszSzabolcs_PR-1.1.PNG "kapcsolási rajz")
