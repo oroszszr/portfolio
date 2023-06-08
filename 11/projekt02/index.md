@@ -1,7 +1,7 @@
 # 2. Projekt. Orosz Szabolcs
 [VISSZA](https://oroszszr.github.io/portfolio/)
 
-## Projekt neve : Hídkapcsolás
+# Projekt neve : Hídkapcsolás
 Projekt ismertetése : Kiegyenlítetlen hídkapcsolás kimeneti feszültségének meghatározása
 
 - a, szimulácis méréssel 

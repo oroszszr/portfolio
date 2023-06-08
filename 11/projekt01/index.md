@@ -4,7 +4,7 @@
 
 [VISSZA](https://oroszszr.github.io/portfolio/)
 
-## Skori [ Vezeték Nélküli LED meghajtó ] építése / mérése
+# Skori [ Vezeték Nélküli LED meghajtó ] építése / mérése
 
 ## Szükséges alkatrészek
 
