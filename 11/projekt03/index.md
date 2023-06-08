@@ -7,3 +7,4 @@ A kapcsolási rajz segítségével leolvastuk a logikai függvényt. FluidSIM al
 ## Kapcsolási rajz
 ![kapcsolasirajz](pr3kapcsrajz.png "kapcsolási rajz")
 ![igazsagtable](pr3igazsagtabla.png "igazságtábla")
+### Önreflexió
