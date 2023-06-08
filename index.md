@@ -5,4 +5,4 @@ Orosz Szabolcs vagyok, jelenleg 16 éves. A Miskolci SZC Kandó Kálmán Informa
 
 Projekt 01 [Vezeték nélküli LED meghajtása](https://oroszszr.github.io/portfolio/11/projekt01). 
 Projekt 02 [Hídkapcsolás](https://oroszszr.github.io/portfolio/11/projekt02). 
-Projekt 03 [A](https://oroszszr.github.io/portfolio/11/projekt03). 
+Projekt 03 [Kombinációs hálüzat](https://oroszszr.github.io/portfolio/11/projekt03). 
